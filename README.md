@@ -24,4 +24,4 @@ This project, completed as part of the DSC 20 course at UC San Diego, features a
 ## Usage
 To run the interactive image viewer:
 ```bash
-python src/image_viewer.py <path_to_image>
+python3 image_viewer.py <path_to_image>
